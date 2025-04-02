@@ -1,4 +1,4 @@
-# DebianDocumentation
+# PortForwardingSSH
 ## This is a little Guide to make an ssh connectin via port forwarding with 2 Debain Servers
 > Info: Server 1 = forwarding-Server, Server 2 = target-Server
 # Guide:
